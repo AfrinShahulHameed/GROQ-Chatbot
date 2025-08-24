@@ -13,4 +13,4 @@ Try the live version here: [Groq Chatbot on Streamlit](https://groq-chatbot-cpph
 - **Frontend:** Streamlit  
 - **Backend / API:** Groq API, Python
 
-![Groq Chatbot Demo](groq_demo.png)
+![Demo](groq_demo.png)
