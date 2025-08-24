@@ -88,7 +88,7 @@ st.markdown("<div class='title-text'>🏁 Groq Chat — Turbo Mode 🏎️</div>
 st.markdown("<div class='subtitle-text'>Chat with Groq models in real-time!</div>", unsafe_allow_html=True)
 
 # Groq client
-client = Groq(api_key=st.secrets["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"])
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 # Chat & model states
 if "messages" not in st.session_state:
