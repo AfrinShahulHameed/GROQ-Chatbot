@@ -7,7 +7,7 @@ Built for learning and showcasing AI integration in web apps.
 Perfect for beginners exploring Python web apps and AI APIs.  
 
 ## Deployed App
-Try the live version here: [Groq Chatbot on Streamlit](https://groq-chatbot-cpphsj8ikeqdce5odeappet.streamlit.app/)
+Try the live version here: [Groq Chatbot on Streamlit](https://groq-chatbot-cifsj9xacmwhpmsshcemvt.streamlit.app/)
 
 ## Tech Stack
 - **Frontend:** Streamlit  
